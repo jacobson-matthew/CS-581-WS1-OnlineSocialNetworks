@@ -24,7 +24,7 @@ from operator import itemgetter
 #code from given program youtube.py
 # use build function to create a service object
 # put your API key into the API_KEY field below, in quotes as well as name and version
-API_KEY = "AIzaSyC6ALbKFSUgMvBX8GH1k7me9k9fI6Iq3b8"
+API_KEY = ""
 API_NAME = "youtube"
 API_VERSION = "v3"
 
