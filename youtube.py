@@ -4,7 +4,7 @@
 from googleapiclient.discovery import build      
 # use build function to create a service object
 # put your API key into the API_KEY field below, in quotes
-API_KEY = "AIzaSyC6ALbKFSUgMvBX8GH1k7me9k9fI6Iq3b8"
+API_KEY = ""
 API_NAME = "youtube"
 API_VERSION = "v3"       # this should be the latest version
 #  retrieve the YouTube records matching search term and max
